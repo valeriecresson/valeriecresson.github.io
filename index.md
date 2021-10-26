@@ -1,4 +1,3 @@
-﻿<!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
@@ -13,8 +12,6 @@ body {
   background-size: cover;
 }
 </style> 
-
-
 <head>
 <style>
 div.absolute {
@@ -37,10 +34,3 @@ div.absolute {
 	 <h1></h1>
 	 <h1></h1>
 	 <h1></h1>
-  </div>
-
-</body>
-
-
-
-</html>
