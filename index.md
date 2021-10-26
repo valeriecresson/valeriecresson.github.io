@@ -1,0 +1,46 @@
+﻿<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Psychologue clinicienne Ferney-Voltaire</title>
+<link rel="stylesheet" href="Site de base.css"> 
+</head>
+ <style>
+body {
+  background-image: url('imagefond.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+
+
+<head>
+<style>
+div.absolute {
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  width: 400px;
+  height: 100px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+  <div class="absolute"><h1>Valérie Cresson <br> Psychologue clinicienne</h1>
+	 <h2>Tél : 07 81 44 41 06 <br> No ADELI : 749301693</h2>
+	 <h3>46 avenue de Vessy <br> Résidence Les Crêts de Ferney <br> 01210 Ferney Voltaire</h3>
+	 <h4>Psychologue clinicienne diplômée en 1993, je reçois sur rendez-vous, adolescents, adultes, couples. Je suis formée en thérapie analytique et systémique. </h4>
+	 <h4>Supervision/analyse de la pratique pour psychologues/ éducateurs en individuel ou en groupe.</h4>
+	 <h4>Consultations au cabinet ou par téléphone.</h1>
+	 <h1></h1>
+	 <h1></h1>
+	 <h1></h1>
+  </div>
+
+</body>
+
+
+
+</html>
